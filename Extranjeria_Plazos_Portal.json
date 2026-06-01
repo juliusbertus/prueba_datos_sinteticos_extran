@@ -1,0 +1,62 @@
+[
+  {
+    "Tipo_de_Tramite": "Arraigo social",
+    "Categoria": "Arraigo",
+    "Plazo_actual_estimado_semanas": 12,
+    "Observaciones": "Plazo habitual. Puede variar según documentación aportada. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo_de_Tramite": "Arraigo laboral",
+    "Categoria": "Arraigo",
+    "Plazo_actual_estimado_semanas": 10,
+    "Observaciones": "Plazo habitual. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo_de_Tramite": "Arraigo familiar",
+    "Categoria": "Arraigo",
+    "Plazo_actual_estimado_semanas": 11,
+    "Observaciones": "Plazo habitual. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo_de_Tramite": "Renovación por cuenta ajena",
+    "Categoria": "Renovación",
+    "Plazo_actual_estimado_semanas": 8,
+    "Observaciones": "Resolución más rápida por ser renovación. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo_de_Tramite": "Renovación por cuenta propia",
+    "Categoria": "Renovación",
+    "Plazo_actual_estimado_semanas": 9,
+    "Observaciones": "Plazo similar a cuenta ajena. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo_de_Tramite": "Reagrupación familiar",
+    "Categoria": "Reagrupación",
+    "Plazo_actual_estimado_semanas": 14,
+    "Observaciones": "Mayor complejidad documental. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo_de_Tramite": "Residencia de larga duración",
+    "Categoria": "Residencia",
+    "Plazo_actual_estimado_semanas": 13,
+    "Observaciones": "Requiere verificación de cumplimiento de requisitos. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo_de_Tramite": "Tarjeta familiar UE",
+    "Categoria": "Residencia",
+    "Plazo_actual_estimado_semanas": 6,
+    "Observaciones": "Procedimiento más ágil por marco comunitario. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo_de_Tramite": "Regularización Extraordinaria 2026",
+    "Categoria": "Regularización 2026",
+    "Plazo_actual_estimado_semanas": 7,
+    "Observaciones": "Proceso en curso. Plazo provisional. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo_de_Tramite": "Última actualización: Mayo 2026 (DATO DE EJEMPLO) | Responsable: Área de Trabajo e Inmigración — Delegación del Gobierno en Asturias",
+    "Categoria": "",
+    "Plazo_actual_estimado_semanas": "",
+    "Observaciones": ""
+  }
+]
