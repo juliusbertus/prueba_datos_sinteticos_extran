@@ -1,0 +1,65 @@
+[
+  {
+    "Tipo de Trámite": "Arraigo social",
+    "Categoría": "Arraigo",
+    "Descripción corta": "Residencia temporal por integración social (3 años en España).",
+    "Plazo legal máximo (días)": 90,
+    "Es Regularización 2026": "No"
+  },
+  {
+    "Tipo de Trámite": "Arraigo laboral",
+    "Categoría": "Arraigo",
+    "Descripción corta": "Residencia temporal por relación laboral previa.",
+    "Plazo legal máximo (días)": 90,
+    "Es Regularización 2026": "No"
+  },
+  {
+    "Tipo de Trámite": "Arraigo familiar",
+    "Categoría": "Arraigo",
+    "Descripción corta": "Residencia temporal por vínculo familiar con español o residente.",
+    "Plazo legal máximo (días)": 90,
+    "Es Regularización 2026": "No"
+  },
+  {
+    "Tipo de Trámite": "Renovación por cuenta ajena",
+    "Categoría": "Renovación",
+    "Descripción corta": "Renovación de autorización de residencia y trabajo por cuenta ajena.",
+    "Plazo legal máximo (días)": 60,
+    "Es Regularización 2026": "No"
+  },
+  {
+    "Tipo de Trámite": "Renovación por cuenta propia",
+    "Categoría": "Renovación",
+    "Descripción corta": "Renovación de autorización de residencia y trabajo por cuenta propia.",
+    "Plazo legal máximo (días)": 60,
+    "Es Regularización 2026": "No"
+  },
+  {
+    "Tipo de Trámite": "Reagrupación familiar",
+    "Categoría": "Reagrupación",
+    "Descripción corta": "Autorización de residencia por reagrupación familiar.",
+    "Plazo legal máximo (días)": 90,
+    "Es Regularización 2026": "No"
+  },
+  {
+    "Tipo de Trámite": "Residencia de larga duración",
+    "Categoría": "Residencia",
+    "Descripción corta": "Autorización de residencia permanente (5 años de residencia legal).",
+    "Plazo legal máximo (días)": 90,
+    "Es Regularización 2026": "No"
+  },
+  {
+    "Tipo de Trámite": "Tarjeta familiar UE",
+    "Categoría": "Residencia",
+    "Descripción corta": "Tarjeta de residencia de familiar de ciudadano de la UE.",
+    "Plazo legal máximo (días)": 90,
+    "Es Regularización 2026": "No"
+  },
+  {
+    "Tipo de Trámite": "Regularización Extraordinaria 2026",
+    "Categoría": "Regularización 2026",
+    "Descripción corta": "Proceso de regularización extraordinaria iniciado en enero 2026.",
+    "Plazo legal máximo (días)": 45,
+    "Es Regularización 2026": "Sí"
+  }
+]

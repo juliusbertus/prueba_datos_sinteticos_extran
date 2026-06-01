@@ -1,0 +1,62 @@
+[
+  {
+    "Tipo de Trámite": "Arraigo social",
+    "Categoría": "Arraigo",
+    "Plazo actual estimado (semanas)": 12,
+    "Observaciones": "Plazo habitual. Puede variar según documentación aportada. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo de Trámite": "Arraigo laboral",
+    "Categoría": "Arraigo",
+    "Plazo actual estimado (semanas)": 10,
+    "Observaciones": "Plazo habitual. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo de Trámite": "Arraigo familiar",
+    "Categoría": "Arraigo",
+    "Plazo actual estimado (semanas)": 11,
+    "Observaciones": "Plazo habitual. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo de Trámite": "Renovación por cuenta ajena",
+    "Categoría": "Renovación",
+    "Plazo actual estimado (semanas)": 8,
+    "Observaciones": "Resolución más rápida por ser renovación. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo de Trámite": "Renovación por cuenta propia",
+    "Categoría": "Renovación",
+    "Plazo actual estimado (semanas)": 9,
+    "Observaciones": "Plazo similar a cuenta ajena. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo de Trámite": "Reagrupación familiar",
+    "Categoría": "Reagrupación",
+    "Plazo actual estimado (semanas)": 14,
+    "Observaciones": "Mayor complejidad documental. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo de Trámite": "Residencia de larga duración",
+    "Categoría": "Residencia",
+    "Plazo actual estimado (semanas)": 13,
+    "Observaciones": "Requiere verificación de cumplimiento de requisitos. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo de Trámite": "Tarjeta familiar UE",
+    "Categoría": "Residencia",
+    "Plazo actual estimado (semanas)": 6,
+    "Observaciones": "Procedimiento más ágil por marco comunitario. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo de Trámite": "Regularización Extraordinaria 2026",
+    "Categoría": "Regularización 2026",
+    "Plazo actual estimado (semanas)": 7,
+    "Observaciones": "Proceso en curso. Plazo provisional. [DATO DE EJEMPLO]"
+  },
+  {
+    "Tipo de Trámite": "Última actualización: Mayo 2026 (DATO DE EJEMPLO) | Responsable: Área de Trabajo e Inmigración — Delegación del Gobierno en Asturias",
+    "Categoría": "",
+    "Plazo actual estimado (semanas)": "",
+    "Observaciones": ""
+  }
+]
