@@ -1,6 +1,6 @@
 [
   {
-    "Año": 2026,
+    "Anio": 2026,
     "Semestre": 1,
     "Objetivo": 1,
     "Nombre": "Visitas LACT",
@@ -9,7 +9,7 @@
     "Aportacion_Ponderada": 0.04
   },
   {
-    "Año": 2026,
+    "Anio": 2026,
     "Semestre": 1,
     "Objetivo": 2,
     "Nombre": "Formación",
@@ -18,7 +18,7 @@
     "Aportacion_Ponderada": 0.006
   },
   {
-    "Año": 2026,
+    "Anio": 2026,
     "Semestre": 1,
     "Objetivo": 3,
     "Nombre": "Extranjería",
@@ -27,7 +27,7 @@
     "Aportacion_Ponderada": 0.0375
   },
   {
-    "Año": 2026,
+    "Anio": 2026,
     "Semestre": 2,
     "Objetivo": 1,
     "Nombre": "Visitas LACT",
@@ -36,7 +36,7 @@
     "Aportacion_Ponderada": 0.036
   },
   {
-    "Año": 2026,
+    "Anio": 2026,
     "Semestre": 2,
     "Objetivo": 2,
     "Nombre": "Formación",
@@ -45,7 +45,7 @@
     "Aportacion_Ponderada": 0.0105
   },
   {
-    "Año": 2026,
+    "Anio": 2026,
     "Semestre": 2,
     "Objetivo": 3,
     "Nombre": "Extranjería",
