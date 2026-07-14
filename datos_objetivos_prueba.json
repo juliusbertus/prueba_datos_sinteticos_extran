@@ -1,0 +1,56 @@
+[
+  {
+    "Año": 2026,
+    "Semestre": 1,
+    "Objetivo": 1,
+    "Nombre": "Visitas LACT",
+    "Cumplimiento": 1.0,
+    "Peso": 0.04,
+    "Aportacion_Ponderada": 0.04
+  },
+  {
+    "Año": 2026,
+    "Semestre": 1,
+    "Objetivo": 2,
+    "Nombre": "Formación",
+    "Cumplimiento": 0.2,
+    "Peso": 0.03,
+    "Aportacion_Ponderada": 0.006
+  },
+  {
+    "Año": 2026,
+    "Semestre": 1,
+    "Objetivo": 3,
+    "Nombre": "Extranjería",
+    "Cumplimiento": 0.75,
+    "Peso": 0.05,
+    "Aportacion_Ponderada": 0.0375
+  },
+  {
+    "Año": 2026,
+    "Semestre": 2,
+    "Objetivo": 1,
+    "Nombre": "Visitas LACT",
+    "Cumplimiento": 0.9,
+    "Peso": 0.04,
+    "Aportacion_Ponderada": 0.036
+  },
+  {
+    "Año": 2026,
+    "Semestre": 2,
+    "Objetivo": 2,
+    "Nombre": "Formación",
+    "Cumplimiento": 0.35,
+    "Peso": 0.03,
+    "Aportacion_Ponderada": 0.0105
+  },
+  {
+    "Año": 2026,
+    "Semestre": 2,
+    "Objetivo": 3,
+    "Nombre": "Extranjería",
+    "Cumplimiento": 0.65,
+    "Peso": 0.05,
+    "Aportacion_Ponderada": 0.0325
+  }
+]
